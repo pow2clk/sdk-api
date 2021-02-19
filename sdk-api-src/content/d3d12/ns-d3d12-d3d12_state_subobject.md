@@ -56,7 +56,7 @@ Represents a subobject with in a state object description. Use with <a href="/wi
 
 ### -field Type
 
-The type of the state subobject.
+The <a href="/windows/win32/api/d3d12/ne-d3d12-d3d12_state_subobject_type">D3D12_STATE_SUBOBJECT_TYPE</a> type of the state subobject.
 
 ### -field pDesc
 
